@@ -1,0 +1,6 @@
+the db model for ecommerce website
+schemas are
+user
+orders
+payments
+inventory
